@@ -1,8 +1,8 @@
 # $3 Taco at 2am, Visa Extended a Year
 
-[![Competition](https://make.fun/badge/u-po-pu-one-star-five-stars-for-the-food-f9166ee7.svg)](https://make.fun/c/u-po-pu-one-star-five-stars-for-the-food-f9166ee7)
-[![Rank](https://make.fun/badge/arestafirman/one-star-three-dollar-taco/rank.svg)](https://make.fun/c/u-po-pu-one-star-five-stars-for-the-food-f9166ee7)
-[![Reward](https://make.fun/badge/arestafirman/one-star-three-dollar-taco/reward.svg)](https://make.fun/c/u-po-pu-one-star-five-stars-for-the-food-f9166ee7)
+[![make.fun · u-po-pu-one-star-five-stars-for-the-food-f9166ee7](https://make.fun/badge/u-po-pu-one-star-five-stars-for-the-food-f9166ee7.svg)](https://make.fun/bounty/u-po-pu-one-star-five-stars-for-the-food-f9166ee7?utm_source=github&utm_medium=readme&utm_campaign=u-po-pu-one-star-five-stars-for-the-food-f9166ee7)
+[![rank](https://make.fun/badge/u-po-pu-one-star-five-stars-for-the-food-f9166ee7/arestafirman/one-star-three-dollar-taco/rank.svg)](https://make.fun/bounty/u-po-pu-one-star-five-stars-for-the-food-f9166ee7/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-po-pu-one-star-five-stars-for-the-food-f9166ee7)
+[![reward](https://make.fun/badge/u-po-pu-one-star-five-stars-for-the-food-f9166ee7/arestafirman/one-star-three-dollar-taco/reward.svg)](https://make.fun/bounty/u-po-pu-one-star-five-stars-for-the-food-f9166ee7?utm_source=github&utm_medium=readme&utm_campaign=u-po-pu-one-star-five-stars-for-the-food-f9166ee7)
 
 Entry for [One Star, Five Stars for the Food](https://make.fun/c/u-po-pu-one-star-five-stars-for-the-food-f9166ee7) on Make.fun.
 
